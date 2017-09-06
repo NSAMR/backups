@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-# This script will download the latest dump of the SQL database to wherever you call it from
+# This script will download the latest dump of whicever backup you want to wherever you call it from
+# e.g. OJS SQL dumps
+# e.g. ojs_uploads folder
 # Sensitive information has been redacted and should be replaced with our details
 
 set -euo pipefail
